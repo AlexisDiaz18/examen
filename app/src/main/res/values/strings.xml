@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">exmane</string>
     <string name="txtName">Nombre</string>
-    <string name="txtCarrera">Carrera</string>
-    <string name="txtGrupo">Grupo</string>
+    <string name="txtNombreUsuario">Nombre usuario</string>
+    <string name="txtIP">IP</string>
     <string name="txtMiName">Diaz Diaz Miguel Alexis</string>
 </resources>
